@@ -7,7 +7,7 @@
 //The static files are contained in static/css/main.css
 
 
-package main
+package static
 
 import (
 	"html/template"
